@@ -1,0 +1,17 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "system",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "inlineSourceMap": true
+  },
+  "exclude": [
+    "bin",
+    "obj",
+    "node_modules",
+    "typings/main.d.ts",
+    "typings/main"
+  ]
+}
